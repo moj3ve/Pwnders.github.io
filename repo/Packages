@@ -8,12 +8,12 @@ Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
 Size: 
 Description: Jailbroken version of AltStore with on device signing feauture.
 Name: AltStore
-Icon: https://github.com/Thunder7yoshi/thunder7yoshi.github.io/raw/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
+Icon: https://raw.githubusercontent.com/Pwnders/Pwnders.github.io/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
 Author: Riley Testut - Lukass#6092
 MD5sum: e1454a475edc19dbd7298530a5ef6b9f
 SHA1: 8e76f619bfad236bf16000870f77ee7151365ff7
 SHA256: c24c38d30c294ee5b81971e7056432c80657f4ebd4c9a313783360edcf7f5ae0
-Depiction: https://thunder7yoshi.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
+Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
 
 Package: com.rileytestut.altstore.alpha.jailbroken
 Section: Tweaks
@@ -25,12 +25,12 @@ Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
 Size: 
 Description: Jailbroken version of AltStore with on device signing feauture.
 Name: AltStore
-Icon: https://github.com/Thunder7yoshi/thunder7yoshi.github.io/raw/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
+Icon: https://raw.githubusercontent.com/Pwnders/Pwnders.github.io/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
 Author: Riley Testut - Lukass#6092
 MD5sum: e1454a475edc19dbd7298530a5ef6b9f
 SHA1: 8e76f619bfad236bf16000870f77ee7151365ff7
 SHA256: c24c38d30c294ee5b81971e7056432c80657f4ebd4c9a313783360edcf7f5ae0
-Depiction: https://thunder7yoshi.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
+Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
 
 Package: me.sukarodo.isupervisor
 Section: Tweaks
@@ -46,7 +46,7 @@ Author: Sukarodo
 MD5sum: c2c6ca572846a529f6f0278525493cef
 SHA1: 163084f7229308fbe5e8e530f28bc171c4a2825b
 SHA256: 0c6b16eae9cdaaddfc01c340bf1840b4c782bd67b9809713855fbe45ce8c7898
-Depiction: https://thunder7yoshi.github.io/repo/packageInfo/me.sukarodo.isupervisor.html
+Depiction: https://pwnders.github.io/repo/packageInfo/me.sukarodo.isupervisor.html
 
 Package: com.anonymousx.dlgmemorinjected
 Section: Tweaks
@@ -62,7 +62,7 @@ Author: AnonymousxiosdeV
 MD5sum: 20c6e6b1d51d0c2d22be495c2b6d9c19
 SHA1: 1b394f410c30a50efe41e839fbbcb704e2692882
 SHA256: adb9f8b7bce323b6104b163e3e6dd1b750ae19bdb014847e0872f1aa2e974f97
-Depiction: https://thunder7yoshi.github.io/repo/packageInfo/com.anonymousx.dlgmemorinjected_11.3.1_iphoneos-arm.html
+Depiction: https://pwnders.github.io/repo/packageInfo/com.anonymousx.dlgmemorinjected_11.3.1_iphoneos-arm.html
 
 Package: com.anonymousx.dlgmemorinjected
 Section: Tweaks
@@ -78,4 +78,4 @@ Author: AnonymousxiosdeV
 MD5sum: 20c6e6b1d51d0c2d22be495c2b6d9c19
 SHA1: 1b394f410c30a50efe41e839fbbcb704e2692882
 SHA256: adb9f8b7bce323b6104b163e3e6dd1b750ae19bdb014847e0872f1aa2e974f97
-Depiction: https://thunder7yoshi.github.io/repo/packageInfo/com.anonymousx.dlgmemorinjected_11.3.1_iphoneos-arm.html
+Depiction: https://pwnders.github.io/repo/packageInfo/com.anonymousx.dlgmemorinjected_11.3.1_iphoneos-arm.html

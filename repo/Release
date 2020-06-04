@@ -1,15 +1,8 @@
-Origin: Thunder7yoshi's Repo
-
-Label: Thunder7yoshi
-
+Origin: Pwnder's Repo
+Label: Pwnders
 Suite: stable
-
 Version: 1.0
-
-Codename: Thunder7yoshi
-
+Codename: WePwn
 Architecture: iphoneos-arm
-
 Components: main
-
-Description: Thunder7yoshi's deb repository
+Description: Pwnder's deb repository
