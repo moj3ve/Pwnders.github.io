@@ -5,7 +5,7 @@ Depends: firmware (>=12)
 Architecture: iphoneos-arm
 Version: 1.4a2
 Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
-Size: 3407872
+Size: 3404252
 Description: Jailbroken version of AltStore with on device signing feauture.
 Name: AltStore
 Icon: https://raw.githubusercontent.com/Pwnders/Pwnders.github.io/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
@@ -22,7 +22,7 @@ Depends: firmware (>=8)
 Architecture: iphoneos-arm
 Version: 1.0
 Filename: ./debs/me.sukarodo.isupervisor_1.0_iphoneos-arm.deb
-Size: 4096
+Size: 1094
 Description: Supervises your iDevice
 Name: iSupervisor
 Author: Sukarodo
@@ -38,7 +38,7 @@ Depends: firmware (>=11)
 Architecture: iphoneos-arm
 Version: 11.3.1
 Filename: ./debs/com.anonymousx.dlgmemorinjected_11.3.1_iphoneos-arm.deb
-Size: 204800
+Size: 200994
 Description: Injection library that allows you to alter memory in app.
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
