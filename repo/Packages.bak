@@ -3,16 +3,16 @@ Section: Tweaks
 Maintainer: Pwnders
 Depends: firmware (>=12.2)
 Architecture: iphoneos-arm
-Version: 1.4a2
+Version: 1.4a4
 Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
-Size: 4396132
+Size: 3404252
 Description: Jailbroken version of AltStore with on device signing feauture.
 Name: AltStore
 Icon: https://raw.githubusercontent.com/Pwnders/Pwnders.github.io/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
 Author: Riley Testut - Thunder7#9020
-MD5sum: ad9f60152c839fcd763ae5716ba98dd1
-SHA1: 31f0be33e01cd9cd3e150e4d9e250bdc39cedaea
-SHA256: 02c38a8ca2e2380c5e1426712532ff1a6d2445c800e6acddffa907e9a94d3efb
+MD5sum: 89390d712de1634741f53db7f18daf70
+SHA1: c5a7bb846b8ac7d01ecb99a94bbbd94f0c8efb00
+SHA256: dc785f6c29a086128f5aad79d948cc99fef16e05443c232c6627581d6dd5a045
 Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
 
 Package: me.sukarodo.isupervisor
