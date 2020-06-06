@@ -33,7 +33,7 @@ SHA256: 93a53fbe7c858ee8344515a4969fbb3d4baa8f0006357e6565dc92c9b916ffba
 Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
 
 Package: com.rileytestut.altdaemon
-Section: Systems
+Section: System
 Maintainer: Pwnders
 Pre-Depends: firmware (>= 12.2)
 Architecture: iphoneos-arm
