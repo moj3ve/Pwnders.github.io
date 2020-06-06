@@ -31,3 +31,19 @@ MD5sum: 6754f9314401880c5d421257c28b6bde
 SHA1: 7669bb8e5758fd41a77e31cad01bea039bbaa3bc
 SHA256: 93a53fbe7c858ee8344515a4969fbb3d4baa8f0006357e6565dc92c9b916ffba
 Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
+
+Package: com.rileytestut.altdaemon
+Section: Systems
+Maintainer: Pwnders
+Pre-Depends: firmware (>= 12.2)
+Architecture: iphoneos-arm
+Version: 0.1
+Filename: ./debs/AltDaemon.deb
+Size: 865826
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Author: Riley Testut - Thunder7
+MD5sum: c7139e3987cb680ba62d66ffdcc7c1b1
+SHA1: 103f9395b2a3b41d9222c5455d70f7e491d199a1
+SHA256: 6e243fffcb408faf915d8ece824923cce1bf5e79bd3426ea191c72046cffc5c8
+Depiction: https://pwnders.github.io/repo/packageInfo/AltDaemon.html
