@@ -27,7 +27,7 @@ Description: AltDeamon allows AltStore to install and refresh apps without a com
 Name: AltDeamon
 Author: Riley Testut
 MD5sum: c4a536e6a45c00e7d84998a84a34baf3
-SHA1: 4fadc21c17fab3b7078b60194cb76c1e840bf713
+SHA1: fa1c931e680eac92eb24e8b58fdadf4d19fdb922
 SHA256: d45115be53f40502707cd6027b5d7e3a60f81edaf591032bcdac0899f02f9106
 Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.altdaemon.html
 
