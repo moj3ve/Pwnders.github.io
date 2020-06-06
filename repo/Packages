@@ -22,7 +22,7 @@ Depends: firmware (>=12.2)
 Architecture: iphoneos-arm
 Version: 0.1
 Filename: ./debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
-Size: 3404256
+Size: 621974
 Description: AltDeamon allows AltStore to install and refresh apps without a computer
 Name: AltDeamon
 Author: Riley Testut
