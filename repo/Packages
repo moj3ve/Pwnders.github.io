@@ -7,13 +7,29 @@ Version: 1.4a4
 Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
 Size: 3404256
 Description: Jailbroken version of AltStore with on device signing feauture.
-Name: AltStore
+Name: AltStore (OLD)
 Icon: https://raw.githubusercontent.com/Pwnders/Pwnders.github.io/master/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
 Author: Riley Testut - Thunder7#9020
 MD5sum: d480f1d6627f4a5adbe82f0827586066
 SHA1: 4fadc21c17fab3b7078b60194cb76c1e840bf713
 SHA256: aefe6f760c25b5e03ea0e6c5c062d1ff9b32de86d19bd17a12c61d8ba6c43ee4
 Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
+
+Package: com.rileytestut.altdaemon
+Section: System
+Maintainer: Pwnders
+Depends: firmware (>=12.2)
+Architecture: iphoneos-arm
+Version: 0.1
+Filename: ./debs/com.rileytestut.altdaemon_0.1_iphoneos-arm.deb
+Size: 3404256
+Description: AltDeamon allows AltStore to install and refresh apps without a computer
+Name: AltDeamon
+Author: Riley Testut
+MD5sum: c4a536e6a45c00e7d84998a84a34baf3
+SHA1: 4fadc21c17fab3b7078b60194cb76c1e840bf713
+SHA256: d45115be53f40502707cd6027b5d7e3a60f81edaf591032bcdac0899f02f9106
+Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.altdaemon.html
 
 Package: me.sukarodo.isupervisor
 Section: Utilities
