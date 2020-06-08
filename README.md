@@ -8,7 +8,7 @@ AltStore with on device signing for Jailbroken iDevices.
 
 ### Prerequisites
 
-- Debian packages manager (Cydia, [Zebra](https://getzbra.com/), [Sileo](https://www.reddit.com/r/jailbreak/comments/fe7t5l/tutorial_the_no_bs_solution_for_sileo_on_unc0ver/), [Installer 5](https://apptapp.me/repo/) or others)
+- Debian package manager (Cydia, [Zebra](https://getzbra.com/), [Sileo](https://www.reddit.com/r/jailbreak/comments/fe7t5l/tutorial_the_no_bs_solution_for_sileo_on_unc0ver/), [Installer 5](https://apptapp.me/repo/) or others)
 
 ### Installing
 
