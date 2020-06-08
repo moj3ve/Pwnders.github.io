@@ -22,3 +22,22 @@ AltStore with on device signing for Jailbroken iDevices.
 7. Tap on the **Search tab**
 8. Search for **"AltStore (ALPHA)"**
 9. Hit **Install** on the top right and then **Confirm**
+
+### Signing/Sideloading iPAs
+
+1. Open **AltStore** (located on the homescreen)
+2. Tap on the **Settinga tab**
+3. Press **Sign in with Apple ID**
+4. *Sign in*
+5. Tap on the **My Apps tab**
+6. Hit the **"+"**
+7. Choose the iPA you wish to sign and sideload
+8. Profit
+
+### How to check if I did everything correct
+
+1. Open **Settings**
+2. Go to **Generals** > **Profiles & Device Management**
+3. You should see a certificate containing the iPA prevoiusly signed and sidleoaded
+
+# Join our **discord server**[https://discord.gg/kzPPbsw] for help!
