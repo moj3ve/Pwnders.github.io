@@ -21,3 +21,4 @@ AltStore with on device signing for Jailbroken iDevices.
 6. Wait for sources to refresh
 7. Tap on the **Search tab**
 8. Search for **"AltStore (ALPHA)"**
+9. Hit **Install** on the top right and then **Confirm**
