@@ -40,4 +40,4 @@ AltStore with on device signing for Jailbroken iDevices.
 2. Go to **Generals** > **Profiles & Device Management**
 3. You should see a certificate containing the iPA prevoiusly signed and sidleoaded
 
-# Join our **discord server**[https://discord.gg/kzPPbsw] for help!
+# Join our [**discord server**](https://discord.gg/kzPPbsw) for help!
