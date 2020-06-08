@@ -1,6 +1,6 @@
-# AltStore [(ALPHA)Jaibroken]
+# AltStore [(ALPHA)Jailbroken]
 
-AltStore with on device signing for Jailbroken iDevices.
+AltStore with on device signing and sideloading for Jailbroken iDevices.
 
 ## Getting Started
 
