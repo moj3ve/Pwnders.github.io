@@ -14,7 +14,7 @@ AltStore with on device signing for Jailbroken iDevices.
 
 0. [**Jailbreak your iDevice**](https://ios.cfw.guide/)
 1. Open **Cydia** (or any other debian packages manager)
-2. Tap on the *sources tab*
+2. Tap on the **Sources tab**
 3. Press **Modify** on the top right
 4. Press **Add** 
 5. Paste [**Pwnders repo**](https://pwnders.github.io/repo/) and hit **Add source**
